@@ -1,7 +1,2 @@
-visualkeras
-segmentation-models==1.*
 tensorflow
-keras==2.4.3
-keras_applications>=1.0.7,<=1.0.8
-image-classifiers==1.0.0
-efficientnet==1.0.0
+keras==2.3.1
