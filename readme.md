@@ -1,4 +1,4 @@
-## LandCoverNet Data Exploration
+## LandCoverNet Scalable Model Training
 
 <img src='https://radiant-assets.s3-us-west-2.amazonaws.com/PrimaryRadiantMLHubLogo.png' alt='Radiant MLHub Logo' width='300'/>
 
