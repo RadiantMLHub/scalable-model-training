@@ -44,4 +44,4 @@ Here:
 3. Run the command: `pip install -r requirements.txt`
 4. Use the `1. Data Exploration` notebook and follow the instructions
 5. Use the `2. Data Preparation` notebook and follow the instructions 
-6. Use the `3. Model Training` notebook and follow the instructions 
+6. Use the `3. Model Training` notebook and follow the instructions (preferably use the Tensorflow GPU server for faster training results)
